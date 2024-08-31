@@ -1,0 +1,15 @@
+#container {
+  height: 500px;
+  width: 500px;
+
+  position: relative;
+  background: green;
+  border-radius: 2%;
+}
+#object {
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  background: red;
+  border-radius: 10%;
+}
